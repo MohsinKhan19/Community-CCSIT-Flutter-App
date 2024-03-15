@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "856697933788",
+    "project_id": "community-ccsit",
+    "storage_bucket": "community-ccsit.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:856697933788:android:e41ce05c1eaa84c9cc8919",
+        "android_client_info": {
+          "package_name": "com.example.student_communication_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "856697933788-c845pqt6ojic68nhkq5ijvovc59s3s5n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.student_communication_app",
+            "certificate_hash": "19581be41abe9ea224a3f75b41ea8a80bb375fe1"
+          }
+        },
+        {
+          "client_id": "856697933788-44lcmdv2qkifab48vouh8ev6s68hv92v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtlr-sxEt-Ylnpdi0FAZKODk_WaREaxAI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "856697933788-44lcmdv2qkifab48vouh8ev6s68hv92v.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "856697933788-545b7ps7kfe9iml21k2gicfahafndtth.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.studentCommunicationApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
